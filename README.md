@@ -6,9 +6,9 @@ inclued **[eruda](https://eruda.liriliri.io/) mobile console**
 # **requirments** 
 to use react in your mobile all you need is:
 
-- `terminal`:  _i recomende_ [**termux**](https://play.google.com/store/apps/details?id=com.termux).
+- `terminal`:  _i recommend_ [**termux**](https://play.google.com/store/apps/details?id=com.termux).
 
-- `editor`: you can use any editor you like, _i recomende_ [**spck editor**](https://play.google.com/store/apps/details?id=io.spck).
+- `editor`: you can use any editor you like, _i recommend_ [**spck editor**](https://play.google.com/store/apps/details?id=io.spck).
 
 # **how to run**
 
