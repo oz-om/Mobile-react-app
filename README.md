@@ -20,7 +20,7 @@ first open your terminal 'termux' then follow this command:
 
 than clone this repo.
 
-`git clone <repo_link>`
+`git clone https://github.com/oz-om/Mobile-react-app.git`
 
 after clone folders, open root directory and run this flowing command:
 
